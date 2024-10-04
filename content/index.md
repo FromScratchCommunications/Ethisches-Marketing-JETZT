@@ -28,7 +28,7 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 	- Schafft die Infrastruktur für [[Praktische Integrität – Grundlage für ethisches Marketing|praktische Integrität]].
 	- Kommt mit der [[Toolbox zu Kapitel 1]] ins Denken und Tun.
 
-### Kapitel 2 (in Arbeit)
+### Kapitel 2 (==*neu!*==)
 
 - In **„[[Respekt ist unsere Aufgabe]]“** geht es um die Beziehung zu eurem Publikum.
 	- [[Ethisches Marketing, ein Widerspruch in sich? |Definiert, wie ihr eure Zielgruppe, Leads und Kund_innen behandeln wollt.]] 
