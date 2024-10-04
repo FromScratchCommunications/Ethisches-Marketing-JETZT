@@ -95,8 +95,6 @@ So nützlich solche Schlagwörter und High-Level-Ergebnisse auf den ersten Blick
 > 	- [ ] Mitarbeitende sind entsprechend ihrer Fähigkeiten und Erfahrung transparent und aktiv an der Evolution unseres Intention Stacks beteiligt.
 > - [ ] In meinem Unternehmen gehören Markenbotschaften wie Value Propositions (Wertversprechen) oder Elevator Pitches zur gemeinsamen Kommunikations-DNA aller Teams. Niemand würde sie individuell uminterpretieren.
 > - [ ] Es gibt keine Kund_innenkommunikation, die außerhalb dieser Regeln stattfindet (Beispiele: Mahnungen, AGB oder Garantiebedingungen).
->
-> [Eine editierbare Checkliste kannst du hier nutzen](https://tinylist.app/share/ts3ba2fb65-cb9f-40d0-ac30-774f090e58e6) (keine Anmeldung oder Registrierung erforderlich).
 
 ## Praktische Integrität schaffen: So klappt's
 

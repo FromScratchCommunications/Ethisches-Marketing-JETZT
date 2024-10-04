@@ -23,5 +23,5 @@ Ob du das Marketingteam eines Großkonzerns führst, für dein Familienunternehm
 
 - [[„Es geht nicht um den erhobenen Zeigefinger“ |zwischen Werten, Moral und Ethik unterscheiden]] – für dich und dein Unternehmen
 - [[Wie passt ethisches Marketing zu eurer Firmenstrategie? |eine Marketingstrategie aus der Philosophie deines Unternehmens ableiten]]
-- [[Atlas/Publish/Ethisches Marketing JETZT!/Kapitel 1 – Was ist ethisches Marketing?/Praktische Integrität – Grundlage für ethisches Marketing|Grundlagen und Infrastruktur für integeres Marketing erschaffen]]
+- [[Praktische Integrität – Grundlage für ethisches Marketing|Grundlagen und Infrastruktur für integeres Marketing erschaffen]]
 - [[Toolbox zu Kapitel 1 |weiterführende Quellen und Software auswählen]], um individuelle Fragen und Herausforderungen eures Teams zu lösen.

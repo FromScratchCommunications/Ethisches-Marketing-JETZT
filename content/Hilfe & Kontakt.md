@@ -6,7 +6,7 @@ tags:
 description: Ethisches Marketing Jetzt ist ein Projekt von From Scratch Communications – der evidenzbasierten Kommunikationsberatung für Marken mit Integrität.
 date: 2024-03-11
 ---
-Ethisches Marketing Jetzt ist ein Projekt von [From Scratch Communications](https://from-scratch.net/de/) – der evidenzbasierten Kommunikationsberatung für Marken mit Integrität.
+Ethisches Marketing Jetzt ist ein Projekt von [From Scratch Communications](https://from-scratch.net/de/) – der evidenzbasierten Kommunikationsberatung für inklusive Marken.
 
 [[Die Autor*innen |Erfahre mehr über Sabine und Holger]], die diesen Leitfaden geschrieben haben.
 

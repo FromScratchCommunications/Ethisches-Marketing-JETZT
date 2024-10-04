@@ -30,7 +30,7 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 
 ### Kapitel 2 (in Arbeit)
 
-- In **„Respekt ist unsere Aufgabe“** geht es um die Beziehung zu eurem Publikum.
+- In **„[[Respekt ist unsere Aufgabe]]“** geht es um die Beziehung zu eurem Publikum.
 	- Definiert, wie ihr eure Zielgruppe, Leads und Kund_innen behandeln wollt. 
 	- Versteht die Menschen, für die ihr Marketing erstellt. 
 	- Erhöht die Barrierefreiheit eures Unternehmensauftritts. 

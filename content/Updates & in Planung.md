@@ -15,18 +15,9 @@ date: 2024-03-11
 
 Du kannst jederzeit entscheiden, ob und welche Arten von E-Mails du bekommen willst. Schau dazu auch in unsere [[Impressum & Datenschutz |Datenschutzerklärung]].
 
-Pro Anmeldung finanzieren wir 2 Tage medizinischen Schutz für Straßenhunde.
-
 ***
 
 ## Folgende Kapitel sind derzeit noch in Arbeit:
-
-### „Respekt ist unsere Aufgabe“
-
-- Ethisches Marketing – ein Widerspruch in sich?
-- „Start with Who“ – Marketing als Beziehungspflege
-- Reduziert Barrieren, zieht mehr Menschen an!
-- Toolbox zu Kapitel 2
 
 ### „Wollt ihr das totale Marketing?“ – Werbung, Content, Aufmerksamkeits-Ökonomie
 
@@ -60,6 +51,7 @@ Ethisches Marketing Bingo
 - [x] Verbreiterte linke Spalte bei Desktop-Ansicht
 - [x] Optimierte Darstellung von Fettdruck (bold type)
 - [x] Optimierter Footer mit Quick Links zu Impressum & Datenschutz, Lizenz & Urheberrecht sowie Hilfe & Kontakt
+- [ ] Alternative zu TinyList finden (oder abwarten, bis der Bug gefixt ist)
 - [ ] Einbinden von Unicode-Symbolen für Creative Commons
 - [ ] Schöneres Callout-Design
 - [ ] Seiten-Sortierung durch bessere Seitentitel optimieren
@@ -68,4 +60,4 @@ Ethisches Marketing Bingo
 - [ ] Dark Mode für WebsiteCarbon Badge im Footer einrichten
 - [ ] Explorer-Navigation auch bei Mobilansicht und kleineren Laptop-Bildschirmen bis 13 Zoll anzeigen
 
-Stand: März 2024
+Stand: September 2024

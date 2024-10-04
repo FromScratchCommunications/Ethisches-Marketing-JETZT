@@ -40,7 +40,6 @@ Der anfängliche Aufwand (einschließlich der notwendigen Auseinandersetzungen) 
 > ==Integrität ist kein Alleingang:== Als Mitarbeitende tretet ihr den Weg zum Geschäftsziel gemeinsam an. Tausch dich so viel wie möglich mit Peers und Vorgesetzten aus, um deren Perspektive zu verstehen.
 
 
-
 > [!todo]- **Zeit für Recherche: Erstelle eine erste Übersicht eures Intention Stacks**
 > 
 > [Lade dir über diesen Dropbox-Link das Arbeitsblatt zum Kapitel herunter.](https://www.dropbox.com/scl/fi/6srgf7ccn7ou1iykkrg09/Arbeitsblatt1_MARKE_Intention-Stack.xlsx?rlkey=8rb0x8a3zgxyek3srywc37ylc&dl=0) 

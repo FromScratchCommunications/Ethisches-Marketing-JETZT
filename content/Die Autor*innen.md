@@ -14,7 +14,7 @@ date: 2024-03-11
 Sabine Harnau ist Fachperson für ethisches Marketing und Conversion-Optimierung. 
 2017 gründete Sabine die Kommunikationsberatung [From Scratch Communications](https://from-scratch.net/de). Hier leitet Sabine als Head of Growth & Creative ein 11-köpfiges Team aus Designer_innen, Texter_innen und Marketing-Profis.
 
-Seit 2018 unterstützt Sabine ehrenamtlich die internationale Bewegung für ethisches Marketing und Sales bei [The Ethical Move](https://www.theethicalmove.org). Und seit 2021 ist Sabine Mitglied bei [Creatives For Future Deutschland](https://creativesforfuture.de/).
+Seit 2018 unterstützt Sabine ehrenamtlich die internationale Bewegung für ethisches Marketing und Sales bei [The Ethical Move](https://www.theethicalmove.org). Im April 2024 hat sie den Co-Vorsitz angenommen. Und seit 2021 ist Sabine Mitglied bei [Creatives For Future Deutschland](https://creativesforfuture.de/).
 
 [Verbinde dich mit Sabine auf LinkedIn](https://www.linkedin.com/in/sabineharnau/)
 
@@ -26,7 +26,7 @@ Seine Erfahrung umfasst Produktmanagement, strategische Partnerschaften, Custome
 
 Bei [From Scratch Communications](https://from-scratch.net/) begleitet er als Head of Culture & Client Engagement Organisationen aus aller Welt auf ihrer Reise in die praktische Integrität. 
 
-Nebenbei engagiert er sich als Vorstandsmitglied bei [Creatives For Future Deutschland](https://creativesforfuture.de/).
+Nebenbei engagiert er sich als Vorstandsmitglied bei [Creatives For Future Deutschland](https://creativesforfuture.de/) sowie bei [The Ethical Move](https://theethicalmove.org).
 
 [Verbinde dich mit Holger auf LinkedIn](https://www.linkedin.com/in/holger-schueler/)
 
