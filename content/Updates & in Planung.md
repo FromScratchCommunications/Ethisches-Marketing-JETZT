@@ -54,10 +54,11 @@ Ethisches Marketing Bingo
 - [ ] Alternative zu TinyList finden (oder abwarten, bis der Bug gefixt ist)
 - [ ] Einbinden von Unicode-Symbolen für Creative Commons
 - [ ] Schöneres Callout-Design
+	- [ ] Barrierefreie Farbgestaltung für Beispiel-Callouts im Dark Mode
 - [ ] Seiten-Sortierung durch bessere Seitentitel optimieren
 - [ ] Effizienteres Browser-Caching für statische Dateien
 - [ ] Dafür sorgen, dass die WebsiteCarbon Badge zuverlässig und korrekt angezeigt wird
 - [ ] Dark Mode für WebsiteCarbon Badge im Footer einrichten
 - [ ] Explorer-Navigation auch bei Mobilansicht und kleineren Laptop-Bildschirmen bis 13 Zoll anzeigen
 
-Stand: September 2024
+Stand: Oktober 2024
