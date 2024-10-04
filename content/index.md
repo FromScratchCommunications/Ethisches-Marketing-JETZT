@@ -31,10 +31,10 @@ Damit ihr euren Weg bahnen könnt. Und eurer Branche mit gutem Beispiel vorangeh
 ### Kapitel 2 (in Arbeit)
 
 - In **„[[Respekt ist unsere Aufgabe]]“** geht es um die Beziehung zu eurem Publikum.
-	- Definiert, wie ihr eure Zielgruppe, Leads und Kund_innen behandeln wollt. 
-	- Versteht die Menschen, für die ihr Marketing erstellt. 
-	- Erhöht die Barrierefreiheit eures Unternehmensauftritts. 
-	- Setzt ethisches Marketing anhand eines alltagspraktischen Beispiels um: Führt einen Audit der Calls-to-Action auf eurer Website durch.
+	- [[Ethisches Marketing, ein Widerspruch in sich? |Definiert, wie ihr eure Zielgruppe, Leads und Kund_innen behandeln wollt.]] 
+	- [[Start with Who – Marketing als Beziehungspflege |Versteht die Menschen]], für die ihr Marketing erstellt.
+	- Erhöht die [[Reduziert Barrieren, zieht mehr Menschen an |Barrierefreiheit]] eures Unternehmensauftritts. 
+	- Setzt ethisches Marketing anhand eines alltagspraktischen Beispiels um: [[[Effektive, ethische Buttons (Calls-to-Action) – der ultimative Leitfaden |Führt einen Audit der Calls-to-Action auf eurer Website durch.]]
 
 ### Kapitel 3 (in Arbeit)
 
